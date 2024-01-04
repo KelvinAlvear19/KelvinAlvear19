@@ -14,6 +14,10 @@ Un apasionado del diseño y la creatividad
 
 🎣 Estoy buscando nuevos horizontes.
 
+## Insignias
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="678d8fa2-854e-444d-b4c2-d7a1f9079e9f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+    
 ## Proyectos 🚂
 - Amortizacion
   -[Sitio del Repositorio](https://github.com/KelvinAlvear19/Economia2.0)
