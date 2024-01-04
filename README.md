@@ -13,7 +13,17 @@ Un apasionado del diseño y la creatividad
 
 🎣 Estoy buscando nuevos horizontes.
 
-## Projects 🚂
+## Proyectos 🚂
+- Amortizacion
+  -[Sitio del Repositorio](https://github.com/KelvinAlvear19/Economia2.0)
+- Libreria Juevnil con Angular
+  -[Sitio del Repositorio](https://github.com/KelvinAlvear19/Proyecto-Web-Libreria-Angular)
+- Libreria Juvenil Ionic
+  -[Sitio del Repositorio](https://github.com/KelvinAlvear19/LibreriaJuvenil-Ionic) 
+- Gestion de Documentos
+  -[Sitio del Repositorio](https://github.com/KelvinAlvear19/Proyecto-Gestion-Documentos-Fisei) 
+- Crud Laravel
+  -[Sitio del Repositorio](https://github.com/KelvinAlvear19/CRUD-Laravel/tree/main) 
 
 
 
