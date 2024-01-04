@@ -38,7 +38,7 @@ Un apasionado del diseño y la creatividad
 ## Consulta algunas de mis estadísticas
 | *GitHub Stats* | *Programming Languages* |
 |---|---|
-| ![Tus GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvinAlvear19&show_icons=true&theme=tokyonight) | [![Tus Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinAlvear19&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Tus GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvinAlvear19&show_icons=true&theme=tokyonight) | [![Tus Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinAlvear19&layout=compact&theme=tokyonight)](https://github.com/KelvinAlvear19/github-readme-stats) |
 
 ## 📡 Mis Redes Sociales:
 - [LinkedIn](https://www.linkedin.com/in/kevin-alvear-244753187/)
