@@ -15,7 +15,8 @@ Un apasionado del diseño y la creatividad
 🎣 Estoy buscando nuevos horizontes.
 
 ## Insignias
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="678d8fa2-854e-444d-b4c2-d7a1f9079e9f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+![ethical-hacker](https://github.com/KelvinAlvear19/KelvinAlvear19/assets/84355086/a18460d2-b981-47fd-b25b-e090be5a3ec3)
 
     
 ## Proyectos 🚂
@@ -42,4 +43,5 @@ Un apasionado del diseño y la creatividad
 ## 📡 Mis Redes Sociales:
 - [LinkedIn](https://www.linkedin.com/in/kevin-alvear-244753187/)
 - [Instagram](https://www.instagram.com/kevinalvear1915/)
+
 
