@@ -1,7 +1,6 @@
 
 #  🤝 Bienvenido ...
-![banner](https://github.com/KelvinAlvear19/KelvinAlvear19/assets/84355086/3cd41663-a5e8-4132-9c40-58e52d9c498f)
-<img src="https://github.com/KelvinAlvear19/KelvinAlvear19/assets/84355086/3cd41663-a5e8-4132-9c40-58e52d9c498f" alt="banner" width="1500" height="300">
+<img src="https://github.com/KelvinAlvear19/KelvinAlvear19/assets/84355086/3cd41663-a5e8-4132-9c40-58e52d9c498f" alt="banner" width="1500" height="250">
 
 
 ## Acerca de mi
