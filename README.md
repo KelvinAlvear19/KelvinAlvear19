@@ -22,6 +22,8 @@ Un apasionado del diseño y la creatividad
 ## Proyectos 🚂
 - Entorno Virtual para la conexión de motores trifásicos y monofásicos con MetaQuest 2.
   -[Sitio del Repositorio](https://github.com/KelvinAlvear19/VR-MotorLab)
+- Landing Page en WordPres para una empresa de Alquier de Inflables.
+  -[Sitio Web]((https://alegriaclub9.wordpress.com/))
 - Amortizacion
   -[Sitio del Repositorio](https://github.com/KelvinAlvear19/Economia2.0)
 - Libreria Juevnil con Angular
